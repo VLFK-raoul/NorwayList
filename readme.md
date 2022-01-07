@@ -1,6 +1,6 @@
 # Liste over offentlege ressursar i Noreg.
 
-# Åpne data
+# Åpne data - Overordna
 - Bergen bysykkel - https://bergenbysykkel.no/apne-data
 - Felles datakatalog - https://data.norge.no/dataservices
 *datasett, begrep, api-er og informasjonsmodeller.*
@@ -9,16 +9,19 @@
 - Helsedata - https://helsedata.no/no/datakilder/?f_dataType=37&page=1&sort=0
 *datakilder. Helseregistre, medisinske kvalitetsregistre, helseundersøkelser, biobanker, åpne data og statistikk.*
 - Helsedirektoratet - https://www.helsedirektoratet.no/om-oss/apne-data-api
-- Gjøvik kommune - https://www.gjovik.kommune.no/prosjekter/smart-gjovik/apne-data-for-gjovik-kommune.18298.aspx
 - NVE - https://www.nve.no/om-nve/apne-data-og-api-fra-nve/
 - Oljedirektoratet - https://www.npd.no/om-oss/informasjonstenester/apne-data/
 - Statens vegvesen - https://www.vegvesen.no/om-oss/om-organisasjonen/apne-data/
 - Stortinget - https://data.stortinget.no/
 
-##På github##
+# Åpne data - Fylkeskommune
+
+# Åpne data - Kommune
+- Gjøvik kommune - https://www.gjovik.kommune.no/prosjekter/smart-gjovik/apne-data-for-gjovik-kommune.18298.aspx
+- Trondheim kommune - https://data.trondheim.kommune.no/
 
 
-# Overordna
+# Overordna @github
 - Artsdatabanken - https://github.com/Artsdatabanken
 - Altinn - https://github.com/Altinn
 - Brønnøysundregistrene - https://www.brreg.no/produkter-og-tjenester/apne-data/
@@ -30,15 +33,15 @@
 - Tolletaten - https://www.toll.no/no/bedrift/tolletatens-tjeneste-for-apne-data-er-tilgjengelig-for-nedlastning/
 - Vigo IKS FINTLabs - https://github.com/FINTLabs
 
-# Fylkeskommune
+# Fylkeskommune @github
 - Telemark fylkeskommune - https://github.com/telemark
 
-# Kommune
+# Kommune @github
 - Bergen kommune - https://github.com/bergenkommune
 - Oslo kommune - https://github.com/oslokommune
 
 
-# Helse
+# Helse @github
 - Helse-nord - https://github.com/Rapporteket
 
 
