@@ -3,6 +3,8 @@
 # API
 - Felles datakatalog - https://data.norge.no/dataservices
 *datasett, begrep, api-er og informasjonsmodeller.*
+- Finanstilsynet - https://www.finanstilsynet.no/analyser-og-statistikk/api-for-apne-data/
+*API for virksomhetsregisteret og Shortsalgregisteret (SSR).*
 
 # Overordna
 - Artsdatabanken - https://github.com/Artsdatabanken
@@ -13,6 +15,7 @@
 - NAV - https://github.com/navikt
 - SSB - https://github.com/statisticsnorway
 - Skatteetaten - https://github.com/Skatteetaten
+- Tolletaten - https://www.toll.no/no/bedrift/tolletatens-tjeneste-for-apne-data-er-tilgjengelig-for-nedlastning/
 - Vigo IKS FINTLabs - https://github.com/FINTLabs
 
 # Fylkeskommune
