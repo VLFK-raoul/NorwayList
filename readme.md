@@ -7,6 +7,7 @@
 # Overordna
 - Artsdatabanken - https://github.com/Artsdatabanken
 - Altinn - https://github.com/Altinn
+- Brønnøysundregistrene - https://www.brreg.no/produkter-og-tjenester/apne-data/
 - Digdir - https://www.digdir.no/standarder/referansekatalogen-it-standardar/1480 
 *referansekatalogen*
 - NAV - https://github.com/navikt
