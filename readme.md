@@ -21,5 +21,5 @@
 
 
 ## Andre ressursar ##
-- Tekna | *Introduksjon til Git og Github https://www.tekna.no/kurs/introduksjon-til-git-og-github-42689/
-- Visma | *8 risikoer ved å benytte Github eller andre kodehus https://www.visma.no/blogg/risikoer-med-github-eller-andre-kodehus/
+- Tekna | * Introduksjon til Git og Github * https://www.tekna.no/kurs/introduksjon-til-git-og-github-42689/
+- Visma | * 8 risikoer ved å benytte Github * eller andre kodehus https://www.visma.no/blogg/risikoer-med-github-eller-andre-kodehus/
