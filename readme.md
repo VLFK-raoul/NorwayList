@@ -5,6 +5,8 @@
 *datasett, begrep, api-er og informasjonsmodeller.*
 - Finanstilsynet - https://www.finanstilsynet.no/analyser-og-statistikk/api-for-apne-data/
 *API for virksomhetsregisteret og Shortsalgregisteret (SSR).*
+- Helsedata - https://helsedata.no/no/datakilder/?f_dataType=37&page=1&sort=0
+*datakilder. Helseregistre, medisinske kvalitetsregistre, helseundersøkelser, biobanker, åpne data og statistikk.*
 
 # Overordna
 - Artsdatabanken - https://github.com/Artsdatabanken
