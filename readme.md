@@ -17,6 +17,7 @@
 # Åpne data - Fylkeskommune
 
 # Åpne data - Kommune
+- Fredrikstad kommune - https://hub-frstadkomm.opendata.arcgis.com/
 - Gjøvik kommune - https://www.gjovik.kommune.no/prosjekter/smart-gjovik/apne-data-for-gjovik-kommune.18298.aspx
 - Trondheim kommune - https://data.trondheim.kommune.no/
 
