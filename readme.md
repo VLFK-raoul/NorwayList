@@ -7,6 +7,8 @@
 # Overordna
 - Artsdatabanken - https://github.com/Artsdatabanken
 - Altinn - https://github.com/Altinn
+- Digdir - https://www.digdir.no/standarder/referansekatalogen-it-standardar/1480 
+*referansekatalogen*
 - NAV - https://github.com/navikt
 - SSB - https://github.com/statisticsnorway
 - Skatteetaten - https://github.com/Skatteetaten
