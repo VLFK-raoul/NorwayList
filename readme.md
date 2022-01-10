@@ -1,4 +1,4 @@
-## Liste over *offentlege* ressursar i Noreg.##
+## Liste over *offentlege* ressursar i Noreg.
 
 # Åpne data
 - Felles datakatalog - https://data.norge.no/dataservices
