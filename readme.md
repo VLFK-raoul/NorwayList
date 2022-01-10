@@ -1,7 +1,6 @@
-# Liste over *offentlege* ressursar i Noreg.
+## Liste over *offentlege* ressursar i Noreg.##
 
-# Åpne data - Overordna
-- Bergen bysykkel - https://bergenbysykkel.no/apne-data
+# Åpne data
 - Felles datakatalog - https://data.norge.no/dataservices
 *datasett, begrep, api-er og informasjonsmodeller.*
 - Finanstilsynet - https://www.finanstilsynet.no/analyser-og-statistikk/api-for-apne-data/
@@ -13,6 +12,11 @@
 - Oljedirektoratet - https://www.npd.no/om-oss/informasjonstenester/apne-data/
 - Statens vegvesen - https://www.vegvesen.no/om-oss/om-organisasjonen/apne-data/
 - Stortinget - https://data.stortinget.no/
+
+# Bysykkel
+- Bergen bysykkel - https://bergenbysykkel.no/apne-data
+- Oslobysykkel - https://oslobysykkel.no/apne-data
+- Trondheimbysykkel - https://trondheimbysykkel.no/apne-data
 
 # Åpne data - Fylkeskommune
 
@@ -39,6 +43,7 @@
 
 # Kommune @github
 - Bergen kommune - https://github.com/bergenkommune
+- Kristiansund kommune - https://github.com/Kristiansund-kommune
 - Oslo kommune - https://github.com/oslokommune
 
 
