@@ -21,53 +21,53 @@
 # Åpne data - Fylkeskommune
 
 # Kommune
-Oslo kommune
-Github: https://github.com/oslokommune
-API og datakatalog: https://developer.oslo.kommune.no/
+- Oslo kommune
+  Github: https://github.com/oslokommune
+  API og datakatalog: https://developer.oslo.kommune.no/
 
-Trondheim kommune
-Github: https://github.com/Trondheim-kommune
-Github TIP: https://github.com/tktip
+- Trondheim kommune
+  Github: https://github.com/Trondheim-kommune
+  Github TIP: https://github.com/tktip
 
-Bergen kommune
-Github: https://github.com/bergenkommune
+- Bergen kommune
+  Github: https://github.com/bergenkommune
 
-Sarpsborg kommune
-Github: https://github.com/Sarpsborg-kommune
+- Sarpsborg kommune
+  Github: https://github.com/Sarpsborg-kommune
 
-Narvik kommune
-Github: https://github.com/narvikmunicipality
+- Narvik kommune
+  Github: https://github.com/narvikmunicipality
 
-Stavanger kommune
-Github: https://github.com/stavangerkommune
-Dokumentasjon: https://open.stavanger.kommune.no/
+- Stavanger kommune
+  Github: https://github.com/stavangerkommune
+  Dokumentasjon: https://open.stavanger.kommune.no/
 
-Horten kommune
-Github: https://github.com/Hortenkommune
+- Horten kommune
+  Github: https://github.com/Hortenkommune
 
-Bærum kommune
-Github: https://github.com/baerumkommune
+- Bærum kommune
+  Github: https://github.com/baerumkommune
 
-Tromsø Kommune – Seksjon for IT
-Github: https://github.com/tromkom og https://github.com/It-senteret-tromkom
+- Tromsø Kommune – Seksjon for IT
+  Github: https://github.com/tromkom og https://github.com/It-senteret-tromkom
 
-StorFollo IKT
-Github: https://github.com/StorFollo-IKT
+- StorFollo IKT
+  Github: https://github.com/StorFollo-IKT
 
-Narvik kommune
-Github: https://github.com/Narvik-kommune
+- Narvik kommune
+  Github: https://github.com/Narvik-kommune
 
-Sandefjord kommune
-Github: https://github.com/Sandefjord-kommune
+- Sandefjord kommune
+  Github: https://github.com/Sandefjord-kommune
 
-Drammen kommune
-Github: https://github.com/Drammenkommune
+- Drammen kommune
+  Github: https://github.com/Drammenkommune
 
-Kristiansund kommune
-Github: https://github.com/Kristiansund-kommune
+- Kristiansund kommune
+  Github: https://github.com/Kristiansund-kommune
 
-Asker kommune
-Github: https://github.com/Askerkommune
+- Asker kommune
+  Github: https://github.com/Askerkommune
 
 
 # Overordna
