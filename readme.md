@@ -3,12 +3,9 @@
 # Åpne data
 - Felles datakatalog - https://data.norge.no/dataservices
 *datasett, begrep, api-er og informasjonsmodeller.*
-- Finanstilsynet - https://www.finanstilsynet.no/analyser-og-statistikk/api-for-apne-data/
-*API for virksomhetsregisteret og Shortsalgregisteret (SSR).*
 
 - NVE - https://www.nve.no/om-nve/apne-data-og-api-fra-nve/
 - Oljedirektoratet - https://www.npd.no/om-oss/informasjonstenester/apne-data/
-- Statens vegvesen - https://www.vegvesen.no/om-oss/om-organisasjonen/apne-data/
 - Stortinget - https://data.stortinget.no/
 
 # Bysykkel
@@ -87,6 +84,24 @@
 *datakilder. Helseregistre, medisinske kvalitetsregistre, helseundersøkelser, biobanker, åpne data og statistikk.*
 - Helsedirektoratet - https://www.helsedirektoratet.no/om-oss/apne-data-api
 
+# Vær
+- Meteorologisk institutt - https://api.met.no/
+
+# Kart
+- Kartverket - https://www.kartverket.no/api-og-data
+
+# Vann og avløp
+- Noregs vassdrags- og energidirektorat (NVE) - https://www.nve.no/om-nve/apne-data-og-api-fra-nve/
+
+# Trafikk og tjeneste
+- Entur - https://developer.entur.org/
+- Statens vegvesen - https://www.vegvesen.no/om-oss/om-organisasjonen/apne-data/
+- Bring (Posten) - https://developer.bring.com/
+
+# Økonomi
+- Finanstilsynet - https://www.finanstilsynet.no/analyser-og-statistikk/api-for-apne-data/
+*API for virksomhetsregisteret og Shortsalgregisteret (SSR).*
+
 ## Andre ressursar ##
 - Kulturdepartementet | strategi for åpne data - https://www.regjeringen.no/no/dokumenter/kulturdepartementets-strategi-for-apne-data/id2576038/?ch=3
 - Tekna | Introduksjon til Git og Github - https://www.tekna.no/kurs/introduksjon-til-git-og-github-42689/
@@ -95,3 +110,4 @@
 # Kilder
 - Github
 - https://kapps.no/ressurser-og-apne-data/
+- https://data.norge.no/dataservices
