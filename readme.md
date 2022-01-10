@@ -5,9 +5,7 @@
 *datasett, begrep, api-er og informasjonsmodeller.*
 - Finanstilsynet - https://www.finanstilsynet.no/analyser-og-statistikk/api-for-apne-data/
 *API for virksomhetsregisteret og Shortsalgregisteret (SSR).*
-- Helsedata - https://helsedata.no/no/datakilder/?f_dataType=37&page=1&sort=0
-*datakilder. Helseregistre, medisinske kvalitetsregistre, helseundersøkelser, biobanker, åpne data og statistikk.*
-- Helsedirektoratet - https://www.helsedirektoratet.no/om-oss/apne-data-api
+
 - NVE - https://www.nve.no/om-nve/apne-data-og-api-fra-nve/
 - Oljedirektoratet - https://www.npd.no/om-oss/informasjonstenester/apne-data/
 - Statens vegvesen - https://www.vegvesen.no/om-oss/om-organisasjonen/apne-data/
@@ -17,8 +15,6 @@
 - Bergen bysykkel - https://bergenbysykkel.no/apne-data
 - Oslobysykkel - https://oslobysykkel.no/apne-data
 - Trondheimbysykkel - https://trondheimbysykkel.no/apne-data
-
-# Åpne data - Fylkeskommune
 
 # Kommune
 - Oslo kommune
@@ -87,6 +83,9 @@
 
 # Helse
 - Helse-nord - https://github.com/Rapporteket
+- Helsedata - https://helsedata.no/no/datakilder/?f_dataType=37&page=1&sort=0
+*datakilder. Helseregistre, medisinske kvalitetsregistre, helseundersøkelser, biobanker, åpne data og statistikk.*
+- Helsedirektoratet - https://www.helsedirektoratet.no/om-oss/apne-data-api
 
 
 
