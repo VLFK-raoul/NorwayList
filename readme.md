@@ -20,13 +20,57 @@
 
 # Åpne data - Fylkeskommune
 
-# Åpne data - Kommune
-- Fredrikstad kommune - https://hub-frstadkomm.opendata.arcgis.com/
-- Gjøvik kommune - https://www.gjovik.kommune.no/prosjekter/smart-gjovik/apne-data-for-gjovik-kommune.18298.aspx
-- Trondheim kommune - https://data.trondheim.kommune.no/
+# Kommune
+Oslo kommune
+Github: https://github.com/oslokommune
+API og datakatalog: https://developer.oslo.kommune.no/
+
+Trondheim kommune
+Github: https://github.com/Trondheim-kommune
+Github TIP: https://github.com/tktip
+
+Bergen kommune
+Github: https://github.com/bergenkommune
+
+Sarpsborg kommune
+Github: https://github.com/Sarpsborg-kommune
+
+Narvik kommune
+Github: https://github.com/narvikmunicipality
+
+Stavanger kommune
+Github: https://github.com/stavangerkommune
+Dokumentasjon: https://open.stavanger.kommune.no/
+
+Horten kommune
+Github: https://github.com/Hortenkommune
+
+Bærum kommune
+Github: https://github.com/baerumkommune
+
+Tromsø Kommune – Seksjon for IT
+Github: https://github.com/tromkom og https://github.com/It-senteret-tromkom
+
+StorFollo IKT
+Github: https://github.com/StorFollo-IKT
+
+Narvik kommune
+Github: https://github.com/Narvik-kommune
+
+Sandefjord kommune
+Github: https://github.com/Sandefjord-kommune
+
+Drammen kommune
+Github: https://github.com/Drammenkommune
+
+Kristiansund kommune
+Github: https://github.com/Kristiansund-kommune
+
+Asker kommune
+Github: https://github.com/Askerkommune
 
 
-# Overordna @github
+# Overordna
 - Artsdatabanken - https://github.com/Artsdatabanken
 - Altinn - https://github.com/Altinn
 - Brønnøysundregistrene - https://www.brreg.no/produkter-og-tjenester/apne-data/
@@ -38,16 +82,10 @@
 - Tolletaten - https://www.toll.no/no/bedrift/tolletatens-tjeneste-for-apne-data-er-tilgjengelig-for-nedlastning/
 - Vigo IKS FINTLabs - https://github.com/FINTLabs
 
-# Fylkeskommune @github
+# Fylkeskommune
 - Telemark fylkeskommune - https://github.com/telemark
 
-# Kommune @github
-- Bergen kommune - https://github.com/bergenkommune
-- Kristiansund kommune - https://github.com/Kristiansund-kommune
-- Oslo kommune - https://github.com/oslokommune
-
-
-# Helse @github
+# Helse
 - Helse-nord - https://github.com/Rapporteket
 
 
