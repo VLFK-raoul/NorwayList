@@ -76,6 +76,9 @@
 - Vestfold og telemark fylkeskommune - https://github.com/vtfk
 - Rogaland fylkeskommune - https://github.com/Rogaland
 
+# Universitet
+- Universitetet i Bergen - https://it.uib.no/%C3%85pne_data#Data.uib.no - http://opendata.app.uib.no/
+
 # Helse
 - Helse-nord - https://github.com/Rapporteket
 - Helsedata - https://helsedata.no/no/datakilder/?f_dataType=37&page=1&sort=0
@@ -99,6 +102,8 @@
 # Økonomi
 - Finanstilsynet - https://www.finanstilsynet.no/analyser-og-statistikk/api-for-apne-data/
 *API for virksomhetsregisteret og Shortsalgregisteret (SSR).*
+
+- Norges bank - https://www.norges-bank.no/tema/Statistikk/apne-data/
 
 ## Informasjon ##
 - Kulturdepartementet | strategi for åpne data - https://www.regjeringen.no/no/dokumenter/kulturdepartementets-strategi-for-apne-data/id2576038/?ch=3
