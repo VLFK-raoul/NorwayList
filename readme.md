@@ -3,10 +3,19 @@
 # Åpne data
 - Felles datakatalog - https://data.norge.no/dataservices
 *datasett, begrep, api-er og informasjonsmodeller.*
-
-- NVE - https://www.nve.no/om-nve/apne-data-og-api-fra-nve/
+- FIKS-plattformen - https://ks-no.github.io/fiks-plattform/
 - Oljedirektoratet - https://www.npd.no/om-oss/informasjonstenester/apne-data/
 - Stortinget - https://data.stortinget.no/
+- Artsdatabanken - https://github.com/Artsdatabanken
+- Altinn - https://github.com/Altinn
+- Brønnøysundregistrene - https://www.brreg.no/produkter-og-tjenester/apne-data/
+- Digdir - https://www.digdir.no/standarder/referansekatalogen-it-standardar/1480 
+*referansekatalogen*
+- NAV - https://github.com/navikt
+- SSB - https://github.com/statisticsnorway
+- Skatteetaten - https://github.com/Skatteetaten
+- Tolletaten - https://www.toll.no/no/bedrift/tolletatens-tjeneste-for-apne-data-er-tilgjengelig-for-nedlastning/
+- Vigo IKS FINTLabs - https://github.com/FINTLabs
 
 # Bysykkel
 - Bergen bysykkel - https://bergenbysykkel.no/apne-data
@@ -64,19 +73,8 @@
   
 # Fylkeskommune
 - Telemark fylkeskommune - https://github.com/telemark
-
-
-# Overordna
-- Artsdatabanken - https://github.com/Artsdatabanken
-- Altinn - https://github.com/Altinn
-- Brønnøysundregistrene - https://www.brreg.no/produkter-og-tjenester/apne-data/
-- Digdir - https://www.digdir.no/standarder/referansekatalogen-it-standardar/1480 
-*referansekatalogen*
-- NAV - https://github.com/navikt
-- SSB - https://github.com/statisticsnorway
-- Skatteetaten - https://github.com/Skatteetaten
-- Tolletaten - https://www.toll.no/no/bedrift/tolletatens-tjeneste-for-apne-data-er-tilgjengelig-for-nedlastning/
-- Vigo IKS FINTLabs - https://github.com/FINTLabs
+- Vestfold og telemark fylkeskommune - https://github.com/vtfk
+- Rogaland fylkeskommune - https://github.com/Rogaland
 
 # Helse
 - Helse-nord - https://github.com/Rapporteket
