@@ -102,10 +102,9 @@
 - Finanstilsynet - https://www.finanstilsynet.no/analyser-og-statistikk/api-for-apne-data/
 *API for virksomhetsregisteret og Shortsalgregisteret (SSR).*
 
-## Andre ressursar ##
+## Informasjon ##
 - Kulturdepartementet | strategi for åpne data - https://www.regjeringen.no/no/dokumenter/kulturdepartementets-strategi-for-apne-data/id2576038/?ch=3
-- Tekna | Introduksjon til Git og Github - https://www.tekna.no/kurs/introduksjon-til-git-og-github-42689/
-- Visma | 8 risikoer ved å benytte Github eller andre kodehus - https://www.visma.no/blogg/risikoer-med-github-eller-andre-kodehus/
+
 
 # Kilder
 - Github
