@@ -64,6 +64,9 @@
 
 - Asker kommune
   Github: https://github.com/Askerkommune
+  
+  # Fylkeskommune
+- Telemark fylkeskommune - https://github.com/telemark
 
 
 # Overordna
@@ -78,16 +81,11 @@
 - Tolletaten - https://www.toll.no/no/bedrift/tolletatens-tjeneste-for-apne-data-er-tilgjengelig-for-nedlastning/
 - Vigo IKS FINTLabs - https://github.com/FINTLabs
 
-# Fylkeskommune
-- Telemark fylkeskommune - https://github.com/telemark
-
 # Helse
 - Helse-nord - https://github.com/Rapporteket
 - Helsedata - https://helsedata.no/no/datakilder/?f_dataType=37&page=1&sort=0
 *datakilder. Helseregistre, medisinske kvalitetsregistre, helseundersøkelser, biobanker, åpne data og statistikk.*
 - Helsedirektoratet - https://www.helsedirektoratet.no/om-oss/apne-data-api
-
-
 
 ## Andre ressursar ##
 - Kulturdepartementet | strategi for åpne data - https://www.regjeringen.no/no/dokumenter/kulturdepartementets-strategi-for-apne-data/id2576038/?ch=3
