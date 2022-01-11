@@ -12,6 +12,7 @@
 - Digdir - https://www.digdir.no/standarder/referansekatalogen-it-standardar/1480 
 *referansekatalogen*
 - NAV - https://github.com/navikt
+- SINTEF - https://github.com/SINTEF-SE
 - SSB - https://github.com/statisticsnorway
 - Skatteetaten - https://github.com/Skatteetaten
 - Tolletaten - https://www.toll.no/no/bedrift/tolletatens-tjeneste-for-apne-data-er-tilgjengelig-for-nedlastning/
