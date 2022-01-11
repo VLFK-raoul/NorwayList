@@ -1,7 +1,7 @@
 ## Liste over *offentlege* ressursar i Noreg.
 
 # Åpne data
-- Felles datakatalog - https://data.norge.no/dataservices
+⭐ - Felles datakatalog - https://data.norge.no/dataservices ⭐
 *datasett, begrep, api-er og informasjonsmodeller.*
 - FIKS-plattformen - https://ks-no.github.io/fiks-plattform/
 - Oljedirektoratet - https://www.npd.no/om-oss/informasjonstenester/apne-data/
